@@ -1,1 +1,1 @@
-Hier sind die Aufgaben
+Hier sind die Aufgabenstellungen und Anforderungen an das Projekt
