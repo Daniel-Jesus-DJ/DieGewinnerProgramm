@@ -21,10 +21,6 @@ namespace Die_Gewinner
 
             return output;
         }
-
-        //todo: Löschen
-        //public static List<string> ReadData(string[] data, string contains) => data.Where(x => x.Contains(contains)).ToList();
-
         public static string[] GetMesstellen() => ["S1", "S2", "S3", "S4", "SB", "SD"];
     }
 }

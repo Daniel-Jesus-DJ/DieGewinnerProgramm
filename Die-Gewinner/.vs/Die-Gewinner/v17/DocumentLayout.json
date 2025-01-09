@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\max-mintemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\max-mintemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\durchschnitt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 396,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,19 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "InputHelper.cs",
               "DocumentMoniker": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\InputHelper.cs",
               "RelativeDocumentMoniker": "Die-Gewinner\\InputHelper.cs",
-              "ToolTip": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\InputHelper.cs",
-              "RelativeToolTip": "Die-Gewinner\\InputHelper.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAcAAAAAAAAAA==",
+              "ToolTip": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\InputHelper.cs*",
+              "RelativeToolTip": "Die-Gewinner\\InputHelper.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBsAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:44:53.692Z"
+              "WhenOpened": "2024-12-20T13:44:53.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Max-MinTemp.cs",
               "DocumentMoniker": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Max-MinTemp.cs",
               "RelativeDocumentMoniker": "Die-Gewinner\\Max-MinTemp.cs",
@@ -90,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Program.cs",
               "RelativeDocumentMoniker": "Die-Gewinner\\Program.cs",
