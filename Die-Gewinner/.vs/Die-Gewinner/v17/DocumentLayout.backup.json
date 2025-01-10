@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\max-mintemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\max-mintemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\durchschnitt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\durchschnitt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\hottest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\hottest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\input.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\input.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\hottest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\hottest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\max-mintemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\max-mintemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|d:\\schule\\jahr 1\\herr baldes\\vs zeugs\\die-gewinner\\die-gewinner\\die-gewinner\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7FD99-4123-4668-BD63-57D744A68D9A}|Die-Gewinner\\Die-Gewinner.csproj|solutionrelative:die-gewinner\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 396,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,76 +38,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Input.csv",
               "DocumentMoniker": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Input.csv",
               "RelativeDocumentMoniker": "Die-Gewinner\\Input.csv",
               "ToolTip": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Input.csv",
               "RelativeToolTip": "Die-Gewinner\\Input.csv",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD8AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAIuGAQAAAAAAAAAAAKCGAQAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-12-20T14:02:29.252Z"
+              "WhenOpened": "2025-01-10T06:37:14.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Durchschnitt.cs",
-              "DocumentMoniker": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Durchschnitt.cs",
-              "RelativeDocumentMoniker": "Die-Gewinner\\Durchschnitt.cs",
-              "ToolTip": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Durchschnitt.cs",
-              "RelativeToolTip": "Die-Gewinner\\Durchschnitt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:44:28.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "InputHelper.cs",
               "DocumentMoniker": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\InputHelper.cs",
               "RelativeDocumentMoniker": "Die-Gewinner\\InputHelper.cs",
               "ToolTip": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\InputHelper.cs",
               "RelativeToolTip": "Die-Gewinner\\InputHelper.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:44:53.692Z"
+              "WhenOpened": "2025-01-10T06:24:43.826Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Max-MinTemp.cs",
-              "DocumentMoniker": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Max-MinTemp.cs",
-              "RelativeDocumentMoniker": "Die-Gewinner\\Max-MinTemp.cs",
-              "ToolTip": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Max-MinTemp.cs",
-              "RelativeToolTip": "Die-Gewinner\\Max-MinTemp.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwM4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:30:30.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Program.cs",
               "RelativeDocumentMoniker": "Die-Gewinner\\Program.cs",
               "ToolTip": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Program.cs",
               "RelativeToolTip": "Die-Gewinner\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:31:45.145Z",
+              "WhenOpened": "2025-01-09T09:09:07.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Max-MinTemp.cs",
+              "DocumentMoniker": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Max-MinTemp.cs",
+              "RelativeDocumentMoniker": "Die-Gewinner\\Max-MinTemp.cs",
+              "ToolTip": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Max-MinTemp.cs",
+              "RelativeToolTip": "Die-Gewinner\\Max-MinTemp.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:09:06.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "38455c3d-f9de-4c76-821f-81e0a979f99f",
+        "Display": 2,
+        "X": 354,
+        "Y": 274,
+        "Width": 1571,
+        "Height": 763,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Hottest.cs",
               "DocumentMoniker": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Hottest.cs",
               "RelativeDocumentMoniker": "Die-Gewinner\\Hottest.cs",
-              "ToolTip": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Hottest.cs",
-              "RelativeToolTip": "Die-Gewinner\\Hottest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "ToolTip": "D:\\Schule\\Jahr 1\\Herr Baldes\\VS Zeugs\\Die-Gewinner\\Die-Gewinner\\Die-Gewinner\\Hottest.cs*",
+              "RelativeToolTip": "Die-Gewinner\\Hottest.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:15:27.89Z"
+              "WhenOpened": "2025-01-09T09:09:03.222Z",
+              "EditorCaption": ""
             }
           ]
         }

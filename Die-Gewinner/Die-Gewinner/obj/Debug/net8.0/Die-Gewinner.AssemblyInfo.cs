@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Die-Gewinner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d408bb498bb93fe1bc7bdc049b008e67a337a13f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c6030ad33c49acb154dc60a7bd0933363d3c51d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Die-Gewinner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Die-Gewinner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
